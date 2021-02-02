@@ -8,8 +8,10 @@ Welcome to Byplay Camera docs's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
+   cloud_processing/overview
+   desktop/overview
+   plugins/overview
 
 
 Indices and tables
